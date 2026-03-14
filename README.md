@@ -48,3 +48,5 @@ print("----------------------------------------")
     
 ## Result :
 average number of materials in the system using single server infinite capacity executed successfully
+
+https://github.com/irisakumar01-code/Single-server-infinite-capacity---Markov-Model
