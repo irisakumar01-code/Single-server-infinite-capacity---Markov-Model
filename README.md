@@ -44,7 +44,7 @@ else:
 print("----------------------------------------")
 ~~~
 ## Output 
-
+![image](iris.png)
     
 ## Result :
 average number of materials in the system using single server infinite capacity executed successfully
